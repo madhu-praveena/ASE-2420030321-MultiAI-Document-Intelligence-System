@@ -1,5 +1,4 @@
-# InvestIQ — Deep Research for Indian Stocks
-
+# InvestIQ — An AI-Powered Deep Research and Intelligent Financial Analysis Platform
 ## Overview
 
 InvestIQ is an AI-powered financial research platform designed to simplify market analysis for retail investors. It brings together real-time market data, fundamental analysis, technical indicators, sentiment analysis, and market trends in one place.
